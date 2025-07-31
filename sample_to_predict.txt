@@ -1,0 +1,1 @@
+'area': 3000,'bedrooms': 3,'bathrooms': 2,'floors': 2,'mainroad': 1,'guestroom': 0,'basement': 0,'hotwaterheating': 0,'airconditioning': 1,'parking': 1,'prefneighbourhood': 0,'furnished': 0,'semifurnished': 0,'unfurnished': 1
