@@ -42,7 +42,8 @@ All metrics will be saved in 'results' folder.
    - Checked for zero intigers/floats,
    - Removed unnecessary columns.
 2. **Feature Engineering**
-   - Added a column with the logarithm of 10 price for use in ML models.
+   - Added a column with the logarithm of 10 price for use in ML models,
+   - Applyed OneHotEncoder.
 3. **Exploratory Data Analysis**
    - Basic understanding of dataset,
    - Charts were created like histograms, scatter plot, boxplot, pairplot, correlation heatmap,
