@@ -30,8 +30,7 @@ pip install -r requirements.txt
 python main.py
 
 All visualizations will be saved in 'images' folder.
-All ML models will be saved in 'models' folder.
-All metrics will be saved in 'results' folder.
+All ML models and metrics will be saved in 'artifacts' folder.
 
 ## 🧪 Steps Performed
 1. **Data Cleaning**
@@ -55,7 +54,7 @@ All metrics will be saved in 'results' folder.
       + SVR.
 5. **Simple imput prediction of house price for selected model from file**
 
-### Step-by-step analysis with notes and summaries is available in 'notebooks/ML_comparison.ipynb'.
+### Step-by-step analysis with notes and summaries is available in 'notebook' folder.
 
 🧑‍💼 Author: Krzysztof Kopytowski
 📎 LinkedIn: https://www.linkedin.com/in/krzysztof-kopytowski-74964516a/
