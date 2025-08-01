@@ -14,7 +14,7 @@ from src.exception import CustomException
 
 
 def run_all_visualizations(df: pd.DataFrame) -> None:
-    """Function to visualize data in 1.simple_sales_analysis project.
+    """Function to visualize data in 2.ML_classification_comparison_titanic project.
 
     Args:
         df (pd.DataFrame): Data to visualize.
