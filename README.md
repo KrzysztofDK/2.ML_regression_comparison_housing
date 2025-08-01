@@ -22,6 +22,7 @@ Belsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifyin
 - scikit-learn
 - XGBoost
 - joblib
+- dill
 - openpyxl
 
 ## 🔧 Installation:
